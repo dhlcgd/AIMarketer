@@ -5,7 +5,8 @@ Nền tảng Marketing AI hoàn chỉnh, giúp bạn tự động hóa chiến d
 
 Được xây dựng trên AI Studio.
 
-![Giao diện AI Marketer](https://storage.googleapis.com/gemini-codelab-images/aimarketer-demo.png)
+<img width="1909" height="989" alt="image" src="https://github.com/user-attachments/assets/25442e7f-3666-4ec6-b59a-6d6d0dd0e147" />
+
 
 ## ✨ Tính năng nổi bật
 
