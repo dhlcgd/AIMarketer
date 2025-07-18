@@ -1,4 +1,5 @@
 # AI Marketer
+<img width="646" height="153" alt="image" src="https://github.com/user-attachments/assets/85622b11-f92c-454e-8f68-493a249ecbc7" />
 
 Nền tảng Marketing AI hoàn chỉnh, giúp bạn tự động hóa chiến dịch, sáng tạo nội dung và phân tích dữ liệu với sức mạnh của trí tuệ nhân tạo. Tập trung vào chiến lược, không phải công việc tẻ nhạt.
 
